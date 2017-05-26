@@ -1,24 +1,24 @@
 {
   "name": "ng2-install-son",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "ng-install":"bin/ng2-install"
+    "ng2-install": "bin/ng2-install"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edrdesigner/ng2-install-son.git"
+    "url": "git+https://github.com/erikfig/ng2-install-son.git"
   },
-  "author": "edrdesigner",
+  "author": "Eduardo <edrdeisnger@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/edrdesigner/ng2-install-son/issues"
+    "url": "https://github.com/erikfig/ng2-install-son/issues"
   },
-  "homepage": "https://github.com/edrdesigner/ng2-install-son#readme",
+  "homepage": "https://github.com/erikfig/ng2-install-son#readme",
   "dependencies": {
     "git-clone": "^0.1.0",
     "install": "^0.10.1",
